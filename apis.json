@@ -1,0 +1,55 @@
+{
+    "name": "Pirate Metrics",
+    "description": "<p>Pirate Metrics is an API that tracks metrics important to subscription-based businesses, such as new user signups and activity, and provides marketing advice for improving user retention and driving more revenue.<\/p>\n\n<p>This application delivers actionable analytics and marketing insight for SaaS applications. <\/p>\n\n<p>Based on the famous Startup Metrics for Pirates talk by Dave McClure, Pirate Metrics tracks Acquisitions (new user signups) Activations (a user uses your product) Retentions (a user continues to use your product) Referrals (a user refers other users) and Revenue (a user pays for your service.)<\/p>\n\n<p>By tracking these key events, Pirate Metrics can search for patterns in your subscribers&#8217; behavior, and then suggest a course of action for improving your user retention rate and driving more revenue.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1570_logo.png",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pirate-metrics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pirate Metrics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1570_logo.png",
+            "humanURL": "http:\/\/piratemetrics.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pirate-metrics-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pirate-metrics-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/piratemetrics.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.piratemetrics.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.piratemetrics.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pirate-metrics"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/piratemetrics"
+        }
+    ]
+}
